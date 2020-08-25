@@ -4,6 +4,8 @@ This is a minimal notes app that doesn't use any account rather it can be used i
 # You can use it locally here
 [Your Notes](https://siasky.net/DABQUmB_Qs1mS6ygTZ9j2xuIi_UntdZ9_EBMq8fhvxPHlQ/) - Hosted using [Skynet](https://siasky.net/) - **The decentralized CDN and file sharing platform for devs. Skynet is the storage foundation for a Free Internet!**
 
+# [Demo](https://www.canva.com/design/DAEF4Bz1eQc/uOmQBEItSVILdg5DByIM0g/view)
+
 
 # Other Submissions 
 
